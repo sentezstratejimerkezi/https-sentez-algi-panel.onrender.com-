@@ -1,1 +1,2 @@
-# https-sentez-algi-panel.onrender.com-
+# Sentez Algı Paneli
+Bu proje, ilçelere göre sosyal medya algısını analiz eder.
